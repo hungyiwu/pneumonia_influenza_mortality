@@ -29,5 +29,11 @@ Taiwan weekly pneumonia & influenza (P&I) mortality
 
 # Derived data (folder "derived_data")
 
-Merged table
+Merged death rate table
 * File name: "merged_data.csv"
+
+2018 population of United States and Taiwan
+* File name: "pop.csv"
+
+Plot of weekly and cumulative death rate
+* File name: "figure.png"
