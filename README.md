@@ -1,3 +1,5 @@
+![](/derived_data/figure.png)
+
 # Code (folder "code")
 
 Clearn data, output cleaned data
